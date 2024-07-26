@@ -1,4 +1,8 @@
 using System;
+using System.Collections.Generic;
+using System.Text;
+using System.Linq;
+using System.Numerics;
 
 namespace Adventure
 {
@@ -8,7 +12,7 @@ namespace Adventure
       {
         public string Name { get; set; }
         public uint Health { get; set; }
-        public (int row, int col) Location { get; set; }
+        public Vector2 Location { get; set; }
       }
   }
 }

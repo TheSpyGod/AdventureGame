@@ -12,3 +12,4 @@ C:\side_projects\AdventureGame\AdventureGame\obj\Debug\net8.0\refint\AdventureGa
 C:\side_projects\AdventureGame\AdventureGame\obj\Debug\net8.0\AdventureGame.pdb
 C:\side_projects\AdventureGame\AdventureGame\obj\Debug\net8.0\AdventureGame.genruntimeconfig.cache
 C:\side_projects\AdventureGame\AdventureGame\obj\Debug\net8.0\ref\AdventureGame.dll
+C:\side_projects\AdventureGame\AdventureGame\obj\Debug\net8.0\AdventureGame.sourcelink.json
